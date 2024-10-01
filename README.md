@@ -9,7 +9,12 @@ Glosario para el módulo de BD
 
 # B
 
--
+## Base de datos
+Conjunto de datos organizados de manera que se puedan acceder, gestionar y actualizar fácilmente.
+
+## Bases de datos centralizadas VS Bases de datos distribuidas
+- **Centralizadas**: Los datos se almacenan en un solo lugar.
+- **Distribuidas**: Los datos se distribuyen en diferentes ubicaciones geográficas.
 
 # C
 
@@ -17,7 +22,9 @@ Glosario para el módulo de BD
 
 # D
 
--
+## Dato VS Información
+- **Dato**: Elemento sin contexto.
+- **Información**: Datos procesados y con significado.
 
 # E
 
@@ -25,11 +32,24 @@ Glosario para el módulo de BD
 
 # F
 
--
+## Fichero o Archivo
+Conjunto de datos almacenados en un medio de almacenamiento.
+
+## Ficheros secuenciales
+Archivos donde los datos se almacenan uno tras otro.
+
+## Ficheros de acceso directo
+Archivos que permiten acceder a los datos directamente sin necesidad de leer secuencialmente.
+
+## Ficheros indexados
+Archivos que utilizan un índice para permitir el acceso rápido a los datos.
 
 # G
 
--
+## Fragmentación de bases de datos
+- **Horizontal**: División de una tabla en filas.
+- **Vertical**: División de una tabla en columnas.
+- **Mixta**: Combinación de fragmentación horizontal y vertical.
 
 # H
 
@@ -39,35 +59,40 @@ Glosario para el módulo de BD
 
 -
 
-# J 
+# J
 
 -
 
-# K 
+# K
 
 -
 
-# L 
+# L
 
 -
 
-# M 
+# M
+
+## Modelos de bases de datos
+- **Modelo jerárquico**: Datos organizados en una estructura de árbol.
+- **Modelo en red**: Datos organizados en una estructura gráfica.
+- **Modelo relacional**: Datos organizados en tablas.
+- **Modelo orientado a objetos**: Datos organizados como objetos.
+- **Modelo NoSQL**: Datos organizados de manera no relacional.
+
+# N
 
 -
 
-# N 
+# O
 
 -
 
-# O 
+# P
 
 -
 
-# P 
-
--
-
-# Q 
+# Q
 
 -
 
@@ -77,7 +102,14 @@ Glosario para el módulo de BD
 
 # S
 
--
+## Sistema de gestión de bases de datos
+Software que permite la creación, gestión y administración de bases de datos.
+- **Ventajas**: Integridad de datos, reducción de redundancia.
+- **Desventajas**: Complejidad, costo.
+
+## Sistema de información basado en archivos
+Sistema donde los datos se almacenan en archivos individuales.
+- **Desventajas**: Redundancia, inconsistencia, problemas de seguridad.
 
 # T
 
@@ -95,11 +127,11 @@ Glosario para el módulo de BD
 
 -
 
-# X 
+# X
 
 -
 
-# Y 
+# Y
 
 -
 
